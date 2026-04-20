@@ -1,0 +1,19 @@
+# Data handling and numerical operations
+numpy
+pandas
+
+# Machine learning and statistics
+scikit-learn
+scipy
+
+# Visualization
+matplotlib
+seaborn
+folium
+
+# Data acquisition (Kaggle CLI)
+kaggle
+
+# Jupyter Notebook environment
+jupyter
+notebook
